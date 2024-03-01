@@ -1,1 +1,2 @@
 # Alien-Game
+Alien Invasion is an engaging console-based application game crafted in Python, where player embarks on a critical mission to safeguard Earth (E) from a horde of destructive aliens intent on its annihilation. Player can strategically fire at incoming alien ships to defend our planet. For those seeking an edge or finding the challenge overwhelming, the game also offers a cheat command to tilt the odds in your favor.
